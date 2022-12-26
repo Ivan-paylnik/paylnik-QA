@@ -17,3 +17,9 @@ a=2;
 
 ![This is an image](https://github.com/Ivan-paylnik/paylnik-QA/blob/main/image/dej.jpg)
 
+count|goal|resault
+:----|:--:|------:
+1|red|red
+2|blue|grey
+2|dou|null
+
