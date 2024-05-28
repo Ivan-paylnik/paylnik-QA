@@ -1,7 +1,7 @@
-#  Иван Н
+#  Иван Наконечников
+<i class="fa-brands fa-telegram"></i> telegram - @paylnik34, Id: 727713562
 
-## QA-инженер/Тестировщик, QA-automation engineer
-
+## QA-engineer, QA-automation engineer
 
 ___
 **Профессиональные навыки:**
